@@ -1,4 +1,5 @@
-# Python_Final_Project
+# Twitter Streaming
+
 Display tweets with Basemap and Tweepy
 
 Dependencies :
