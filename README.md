@@ -23,6 +23,6 @@ python3 twitter_stream.py
 
 - To Plot the Data on BaseMap :
 
-Use the below script to plot the data on BaseMap
+Use the below script to plot the data on BaseMap. Please run the Below script in iPython or Jupyter Notebook for Visualization.
 
 python3 twitter_basemap.py
