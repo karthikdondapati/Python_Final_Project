@@ -1,4 +1,4 @@
-# Twitter Streaming
+# Twitter Data Analysis
 
 Twitter Sentiment Analysis & Display tweets with Basemap and Tweepy
 
