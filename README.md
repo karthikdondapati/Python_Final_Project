@@ -9,6 +9,8 @@ conda install -c conda-forge tweepy
 
 conda install matplotlib numpy pandas shapely scipy pysal Fiona descartes basemap
 
+Authentication File has to be in the Same Folder where the Python Files reside.
+
 The Job is Classified into two Parts :
 
 
