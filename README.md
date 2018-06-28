@@ -16,7 +16,7 @@ python3 -m textblob.download_corpora
 
 Authentication File has to be in the Same Folder where the Python Files reside.
 
-The Job is Classified into two Parts :
+The Job is Classified into three Parts :
 
 
 
@@ -33,3 +33,10 @@ python3 twitter_stream.py
 Use the below script to plot the data on BaseMap. Please run the Below script in iPython or Jupyter Notebook for Visualization.
 
 python3 twitter_basemap.py
+
+
+- Twitter Sentiment Analysis :
+
+Use the below script to run the sentiment analysis
+
+python3 twitter_sentiment.py
