@@ -6,6 +6,7 @@ Dependencies :
 Install the Below Dependencies to run the Job.
 
 conda install -c conda-forge tweepy
+
 conda install matplotlib numpy pandas shapely scipy pysal Fiona descartes basemap
 
 The Job is Classified into two Parts :
