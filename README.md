@@ -11,11 +11,15 @@ conda install matplotlib numpy pandas shapely scipy pysal Fiona descartes basema
 
 The Job is Classified into two Parts :
 
+
+
 - To Download the Data From twitter :
 
 Use the below script to download the data from twitter :
 
 python3 twitter_stream.py
+
+
 
 - To Plot the Data on BaseMap :
 
