@@ -1,6 +1,6 @@
 # Twitter Streaming
 
-Display tweets with Basemap and Tweepy
+Twitter Sentiment Analysis & Display tweets with Basemap and Tweepy
 
 Dependencies :
 
@@ -9,6 +9,10 @@ Install the Below Dependencies to run the Job.
 conda install -c conda-forge tweepy
 
 conda install matplotlib numpy pandas shapely scipy pysal Fiona descartes basemap
+
+pip install -U textblob
+
+python3 -m textblob.download_corpora
 
 Authentication File has to be in the Same Folder where the Python Files reside.
 
